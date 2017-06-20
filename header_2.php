@@ -49,6 +49,13 @@
               // } else if ($title == "Contact") {
               //   $class_contact = ' class="active"';
               // }
+              
+              body {
+                
+                padding - top: 60px ;
+                
+              }
+              
               switch ($title) {
                 case 'Le Alpi':
                   $class_Alpi = ' class="active"';
