@@ -1,5 +1,5 @@
 				<footer>
-				&copy; 2017 Irigem  tutti i diritti sono riservati
+				&copy; 2017 Lunardon Nicola
 				</footer>
 			</div><!-- /.container -->
 		</div><!-- /.row -->
